@@ -1,0 +1,22 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "api para testes de ci/cd",
+  "main": "\u001b[3~\u001b[3~",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ra179510/todo-list.git"
+  },
+  "author": "Beatriz de Almeida Nogueira",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ra179510/todo-list/issues"
+  },
+  "homepage": "https://github.com/ra179510/todo-list#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
